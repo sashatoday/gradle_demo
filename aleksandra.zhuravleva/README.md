@@ -7,7 +7,7 @@
 | `./gradlew zipIt`            | to zip a binary into `./build/distributions/FindMin-1.0-SNAPSHOT.zip` |
 | `./gradlew deployIt`         | to create a Docker image |
 | `./gradlew runDummyTest`     | to run simple test |
-| `./gradlew test        `     | to run the tests |
+| `./gradlew test        `     | to run tests |
 
 ## Actual usage
 
